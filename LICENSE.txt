@@ -1,0 +1,3 @@
+# Proprietary License
+
+This software is proprietary and intended for use with NetAlly network discovery data. Unauthorized distribution or modification is prohibited.
